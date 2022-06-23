@@ -1,4 +1,4 @@
-// const calculatior = () => {
+
 let operation = prompt(`What operation do you want? 
 Enter "+" for addition,
 "*" for multiplication, 
